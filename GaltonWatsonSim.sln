@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GaltonWatsonSim", "GaltonWatsonSim\GaltonWatsonSim.csproj", "{38A9A2F7-AE62-4D5D-A07A-A78660584E42}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38A9A2F7-AE62-4D5D-A07A-A78660584E42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38A9A2F7-AE62-4D5D-A07A-A78660584E42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38A9A2F7-AE62-4D5D-A07A-A78660584E42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38A9A2F7-AE62-4D5D-A07A-A78660584E42}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C675B286-F510-4798-A69C-A22FDB5AC6E2}
+	EndGlobalSection
+EndGlobal

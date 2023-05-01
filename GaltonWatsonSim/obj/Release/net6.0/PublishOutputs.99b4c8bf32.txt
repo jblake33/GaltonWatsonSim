@@ -1,0 +1,5 @@
+C:\Users\jcb13\source\repos\GaltonWatsonSim\GaltonWatsonSim\bin\publish\GaltonWatsonSim.exe
+C:\Users\jcb13\source\repos\GaltonWatsonSim\GaltonWatsonSim\bin\publish\GaltonWatsonSim.dll
+C:\Users\jcb13\source\repos\GaltonWatsonSim\GaltonWatsonSim\bin\publish\GaltonWatsonSim.deps.json
+C:\Users\jcb13\source\repos\GaltonWatsonSim\GaltonWatsonSim\bin\publish\GaltonWatsonSim.runtimeconfig.json
+C:\Users\jcb13\source\repos\GaltonWatsonSim\GaltonWatsonSim\bin\publish\GaltonWatsonSim.pdb
